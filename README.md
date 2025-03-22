@@ -6,7 +6,7 @@ Each one of the steps to do this, has a section in which a screenshot of the dif
 
 PART 1 - Configuration ElasticSearch-Hadoop (ES-Hadoop)
 
-![PART 1 - Configuration ElasticSearch-Hadoop (ES-Hadoop)](/Users/saracarcamo/Documents/KeepCoding/Practicas/Data_arquitecture_practica/img)
+![PART 1 - Configuration ElasticSearch-Hadoop (ES-Hadoop)](img/Part_1.png)
 
 Screenshot of SSH terminal from Hadoop cluster after Hadoop has been configured with elasticsearch-hadoop and commons-httpclient.
 
@@ -21,5 +21,4 @@ Screenshot of the Hadoop cluster console with the query result.
 PART 5 - KIBANA
 Screenshot of the Kibana console with a simple visualisation.
 
-
-[def]: /Users/saracarcamo/Documents/KeepCoding/Practicas/Data_arquitecture_practica/img
+[Practica_Data_arquitecture.pdf](Practica_Data_arquitecture.pdf)
